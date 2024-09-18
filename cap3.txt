@@ -1,0 +1,10 @@
+luego se procede a añadir y commitear los archivos deseados con
+dos lineas de comando diferentes
+
+git add . (si se quiere añadir solo un archivo especificamente se
+coloca el nombre en lugar del punto, si se quieren añadir todos
+los archivos, simplemente se coloca el punto)
+
+git commit -m (esto sube al repositorio todos los archivos añadidos
+anteriormente, se debe colocar en la linea, entre comillas un mensaje
+consiso que explique que se realizó en este commit.)
