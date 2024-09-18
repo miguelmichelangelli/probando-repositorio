@@ -3,3 +3,7 @@ se debe crear un directorio en github que no incluya
 el archivo READ.ME, con 3 lineas de comando diferentes se
 logra subir y sincornizar el repositorio, estas lineas las
 indica github directamente al crear el repositorio en la pagina.
+
+finalmente comprobé que al commitear localmente no se actualiza
+directamente en github, se debe realizar un push, es algo bastante
+sencillo de realizar subir repositorios.
