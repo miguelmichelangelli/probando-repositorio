@@ -1,0 +1,10 @@
+lo primero que se debe hacer antes de empezar un repositorio de git es crear
+el archivo ".gitignore", para incluir ahi todos los archivos que no se quieren subir
+publicamente a guthub. pues ponen en riesgo nuestro trabajo, como pueden ser
+calves, APIs...
+
+en este archivo .gitignore, se escribe en una linea nueva cada archivo que no se
+quiera subir al repositorio
+
+posteriormente se inicializa el git con la linea de comando
+git init

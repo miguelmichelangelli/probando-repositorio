@@ -1,0 +1,3 @@
+luego de haber inicializado git, con la linea de comando
+git status podemos confirmar si efectivamente
+los archivos incluidos en .gitignore no se muestran.
